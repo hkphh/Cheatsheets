@@ -95,6 +95,12 @@ airmon-ng start wlan0
 airodump-ng wlan0mon --wps
 reaver -i wlan0mon -c 11 -b 00:00:00:00:00:00 -K 1
 
+Wifite
+------
+
+wifite --kill
+wifite
+
 
 Wireless Notes
 --------------
